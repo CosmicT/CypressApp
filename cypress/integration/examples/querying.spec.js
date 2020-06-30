@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-context('Querying', () => {
+context('questions', () => {
   beforeEach(() => {
     cy.visit('https://example.cypress.io/commands/querying')
   })
